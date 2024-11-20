@@ -6,6 +6,7 @@ playground/
 build/
 js/
 .vscode
+.yarn
 coverage
 package-lock.json
 /examples/browserify/bundle.js
